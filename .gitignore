@@ -1,0 +1,8 @@
+*.o
+*.exe
+*.out
+*.elf
+*.zip
+*.7z
+*.pdf
+*.stackdump
