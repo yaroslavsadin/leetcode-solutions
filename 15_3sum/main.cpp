@@ -10,7 +10,7 @@ using namespace std;
 TotalDuration total("Total");
 #endif
 
-// https://www.geeksforgeeks.org/two-pointers-technique
+/// XXX: https://www.geeksforgeeks.org/two-pointers-technique
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
