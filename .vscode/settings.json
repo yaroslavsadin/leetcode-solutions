@@ -71,6 +71,8 @@
         "future": "cpp",
         "mutex": "cpp",
         "xthread": "cpp",
-        "thread": "cpp"
+        "thread": "cpp",
+        "deque": "cpp",
+        "queue": "cpp"
     }
 }
