@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "C:/Work/LeetCode/279_perfect_squares/a.exe",
+            "program": "C:/Work/LeetCode/264_ugly_number_II/a.exe",
             "args": [],
             "stopAtEntry": true,
             "cwd": "${workspaceFolder}",
